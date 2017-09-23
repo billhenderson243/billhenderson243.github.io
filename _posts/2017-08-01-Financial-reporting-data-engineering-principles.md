@@ -5,7 +5,7 @@ date: 2017-08-01
 ---
 Financial reporting is a critical function for almost every organization. A small number of documents must accurately represent a financial picture of that organization. Over the last twenty years Perkins Consulting has worked on financial reporting with clients of all sizes and industries. We believe that by following a core set of principles in storing and structuring data for financial reporting our clients will have quicker and more automated reporting processes. An additional objective of this paper is to outline an approach that is independent of any particular reporting or analytical tool and provides the best possible support for a wide range of software tools. We’ll be following up with an additional post around specific techniques for implementing these principles.
 
-THE CHALLENGE
+## THE CHALLENGE
 We’ve seen systems of linked spreadsheets that comprise hundreds of spreadsheet files with hundreds of megabytes of data that support financial reporting. Often these systems have grown organically over a period of many years and there is no longer any one person who understands the complete scope of the financial reporting system. These systems have few underlying design principles or architecture so it can be difficult for new hires to develop an understanding of how they work.
 
 Although it would seem obvious that organizations should perform financial reporting using the built-in capabilities of their Enterprise Resource Planning (ERP) software – we’ve found that this is the exception rather than the rule. Some of the reasons why the financial reporting capabilities are not used include:
